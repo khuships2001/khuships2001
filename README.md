@@ -1,5 +1,5 @@
 <div align="center">
-<img src="ting.gif" align="center" style="width: 80%" />
+<img src="ting.gif" align="center" style="width: 60%" />
 </div>  
  
 ## About Me
