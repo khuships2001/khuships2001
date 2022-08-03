@@ -30,10 +30,10 @@
 
 <p align="center">
 <a href="https://github.com/khuships2001">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=khuships2001&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=khuships2001&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/khuships2001">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuships2001&layout=compact&theme=great-gatsby" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuships2001&layout=compact&theme=great-gatsby" />
 </a>
 </p>
 
